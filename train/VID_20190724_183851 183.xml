@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2F</folder>
+	<filename>VID_20190724_183851 183.jpg</filename>
+	<path>C:\Users\ADMIN\Desktop\HandGest\Data\2F\VID_20190724_183851 183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>644</ymin>
+			<xmax>1573</xmax>
+			<ymax>2933</ymax>
+		</bndbox>
+	</object>
+</annotation>

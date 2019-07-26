@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>VID_20190724_183810 027.jpg</filename>
+	<path>C:\Users\ADMIN\Desktop\HandGest\Hand-detection\images\train\VID_20190724_183810 027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>1436</ymin>
+			<xmax>1877</xmax>
+			<ymax>3437</ymax>
+		</bndbox>
+	</object>
+</annotation>
